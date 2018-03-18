@@ -1,0 +1,277 @@
+c:\users\유진\documents\visual studio 2015\Projects\TP_Form\TP_Form\bin\Debug\TP_Form.exe.config
+c:\users\유진\documents\visual studio 2015\Projects\TP_Form\TP_Form\bin\Debug\TP_Form.exe
+c:\users\유진\documents\visual studio 2015\Projects\TP_Form\TP_Form\bin\Debug\TP_Form.pdb
+c:\users\유진\documents\visual studio 2015\Projects\TP_Form\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+c:\users\유진\documents\visual studio 2015\Projects\TP_Form\TP_Form\obj\Debug\TP_Form.Form1.resources
+c:\users\유진\documents\visual studio 2015\Projects\TP_Form\TP_Form\obj\Debug\TP_Form.Form2.resources
+c:\users\유진\documents\visual studio 2015\Projects\TP_Form\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+c:\users\유진\documents\visual studio 2015\Projects\TP_Form\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+c:\users\유진\documents\visual studio 2015\Projects\TP_Form\TP_Form\obj\Debug\TP_Form.exe
+c:\users\유진\documents\visual studio 2015\Projects\TP_Form\TP_Form\obj\Debug\TP_Form.pdb
+c:\users\유진\documents\visual studio 2015\Projects\TP_Form\TP_Form\obj\Debug\TP_Form.Form3.resources
+C:\Users\junma\Documents\Visual Studio 2015\Projects\TP_Form\TP_Form\bin\Debug\TP_Form.exe.config
+C:\Users\junma\Documents\Visual Studio 2015\Projects\TP_Form\TP_Form\obj\Debug\TP_Form.exe
+C:\Users\junma\Documents\Visual Studio 2015\Projects\TP_Form\TP_Form\obj\Debug\TP_Form.pdb
+C:\Users\junma\Documents\Visual Studio 2015\Projects\TP_Form\TP_Form\bin\Debug\TP_Form.exe
+C:\Users\junma\Documents\Visual Studio 2015\Projects\TP_Form\TP_Form\bin\Debug\TP_Form.pdb
+C:\Users\junma\Documents\Visual Studio 2015\Projects\TP_Form\TP_Form\bin\Debug\TP_Form.exe.CodeAnalysisLog.xml
+C:\Users\junma\Documents\Visual Studio 2015\Projects\TP_Form\TP_Form\bin\Debug\TP_Form.exe.lastcodeanalysissucceeded
+C:\Users\junma\Documents\Visual Studio 2015\Projects\TP_Form\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+C:\Users\junma\Documents\Visual Studio 2015\Projects\TP_Form\TP_Form\obj\Debug\TP_Form.Form1.resources
+C:\Users\junma\Documents\Visual Studio 2015\Projects\TP_Form\TP_Form\obj\Debug\TP_Form.Form2.resources
+C:\Users\junma\Documents\Visual Studio 2015\Projects\TP_Form\TP_Form\obj\Debug\TP_Form.Form3.resources
+C:\Users\junma\Documents\Visual Studio 2015\Projects\TP_Form\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+C:\Users\junma\Documents\Visual Studio 2015\Projects\TP_Form\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\MainForm\TP_Form\bin\Debug\TP_Form.exe.config
+C:\Users\Administrator\Documents\카카오톡 받은 파일\MainForm\TP_Form\obj\Debug\TP_Form.exe
+C:\Users\Administrator\Documents\카카오톡 받은 파일\MainForm\TP_Form\obj\Debug\TP_Form.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\MainForm\TP_Form\bin\Debug\TP_Form.exe
+C:\Users\Administrator\Documents\카카오톡 받은 파일\MainForm\TP_Form\bin\Debug\TP_Form.pdb
+C:\Users\Administrator\Documents\카카오톡 받은 파일\MainForm\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\MainForm\TP_Form\obj\Debug\TP_Form.Piano.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\MainForm\TP_Form\obj\Debug\TP_Form.Main.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\MainForm\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\MainForm\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\카카오톡 받은 파일\MainForm\TP_Form\obj\Debug\TP_Form.Drum.resources
+C:\Users\Administrator\Documents\카카오톡 받은 파일\MainForm\TP_Form\obj\Debug\TP_Form.Guitar.resources
+D:\공부\3-1\응용소프트웨어\팀플\Project\ALL\TP_Form\bin\Debug\TP_Form.exe.config
+D:\공부\3-1\응용소프트웨어\팀플\Project\ALL\TP_Form\obj\Debug\TP_Form.exe
+D:\공부\3-1\응용소프트웨어\팀플\Project\ALL\TP_Form\obj\Debug\TP_Form.pdb
+D:\공부\3-1\응용소프트웨어\팀플\Project\ALL\TP_Form\bin\Debug\TP_Form.exe
+D:\공부\3-1\응용소프트웨어\팀플\Project\ALL\TP_Form\bin\Debug\TP_Form.pdb
+D:\공부\3-1\응용소프트웨어\팀플\Project\ALL\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+D:\공부\3-1\응용소프트웨어\팀플\Project\ALL\TP_Form\obj\Debug\TP_Form.Drum.resources
+D:\공부\3-1\응용소프트웨어\팀플\Project\ALL\TP_Form\obj\Debug\TP_Form.Guitar.resources
+D:\공부\3-1\응용소프트웨어\팀플\Project\ALL\TP_Form\obj\Debug\TP_Form.Piano.resources
+D:\공부\3-1\응용소프트웨어\팀플\Project\ALL\TP_Form\obj\Debug\TP_Form.Main.resources
+D:\공부\3-1\응용소프트웨어\팀플\Project\ALL\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+D:\공부\3-1\응용소프트웨어\팀플\Project\ALL\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+C:\Users\내문서\Documents\카카오톡 받은 파일\ALL (2)\TP_Form\bin\Debug\TP_Form.exe.config
+C:\Users\내문서\Documents\카카오톡 받은 파일\ALL (2)\TP_Form\obj\Debug\TP_Form.exe
+C:\Users\내문서\Documents\카카오톡 받은 파일\ALL (2)\TP_Form\obj\Debug\TP_Form.pdb
+C:\Users\내문서\Documents\카카오톡 받은 파일\ALL (2)\TP_Form\bin\Debug\TP_Form.exe
+C:\Users\내문서\Documents\카카오톡 받은 파일\ALL (2)\TP_Form\bin\Debug\TP_Form.pdb
+C:\Users\내문서\Documents\카카오톡 받은 파일\ALL (2)\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+C:\Users\내문서\Documents\카카오톡 받은 파일\ALL (2)\TP_Form\obj\Debug\TP_Form.Drum.resources
+C:\Users\내문서\Documents\카카오톡 받은 파일\ALL (2)\TP_Form\obj\Debug\TP_Form.Guitar.resources
+C:\Users\내문서\Documents\카카오톡 받은 파일\ALL (2)\TP_Form\obj\Debug\TP_Form.Piano.resources
+C:\Users\내문서\Documents\카카오톡 받은 파일\ALL (2)\TP_Form\obj\Debug\TP_Form.Main.resources
+C:\Users\내문서\Documents\카카오톡 받은 파일\ALL (2)\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+C:\Users\내문서\Documents\카카오톡 받은 파일\ALL (2)\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+D:\공부\3-1\응용소프트웨어\팀플\Project\first\TP_Form\bin\Debug\TP_Form.exe.config
+D:\공부\3-1\응용소프트웨어\팀플\Project\first\TP_Form\obj\Debug\TP_Form.exe
+D:\공부\3-1\응용소프트웨어\팀플\Project\first\TP_Form\obj\Debug\TP_Form.pdb
+D:\공부\3-1\응용소프트웨어\팀플\Project\first\TP_Form\bin\Debug\TP_Form.exe
+D:\공부\3-1\응용소프트웨어\팀플\Project\first\TP_Form\bin\Debug\TP_Form.pdb
+D:\공부\3-1\응용소프트웨어\팀플\Project\first\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+D:\공부\3-1\응용소프트웨어\팀플\Project\first\TP_Form\obj\Debug\TP_Form.Drum.resources
+D:\공부\3-1\응용소프트웨어\팀플\Project\first\TP_Form\obj\Debug\TP_Form.Guitar.resources
+D:\공부\3-1\응용소프트웨어\팀플\Project\first\TP_Form\obj\Debug\TP_Form.Piano.resources
+D:\공부\3-1\응용소프트웨어\팀플\Project\first\TP_Form\obj\Debug\TP_Form.Main.resources
+D:\공부\3-1\응용소프트웨어\팀플\Project\first\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+D:\공부\3-1\응용소프트웨어\팀플\Project\first\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+C:\Users\junma\Documents\카카오톡 받은 파일\TP_Form\bin\Debug\TP_Form.exe.config
+C:\Users\junma\Documents\카카오톡 받은 파일\TP_Form\obj\Debug\TP_Form.exe
+C:\Users\junma\Documents\카카오톡 받은 파일\TP_Form\obj\Debug\TP_Form.pdb
+C:\Users\junma\Documents\카카오톡 받은 파일\TP_Form\bin\Debug\TP_Form.exe
+C:\Users\junma\Documents\카카오톡 받은 파일\TP_Form\bin\Debug\TP_Form.pdb
+C:\Users\junma\Documents\카카오톡 받은 파일\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+C:\Users\junma\Documents\카카오톡 받은 파일\TP_Form\obj\Debug\TP_Form.Drum.resources
+C:\Users\junma\Documents\카카오톡 받은 파일\TP_Form\obj\Debug\TP_Form.Guitar.resources
+C:\Users\junma\Documents\카카오톡 받은 파일\TP_Form\obj\Debug\TP_Form.Piano.resources
+C:\Users\junma\Documents\카카오톡 받은 파일\TP_Form\obj\Debug\TP_Form.Main.resources
+C:\Users\junma\Documents\카카오톡 받은 파일\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+C:\Users\junma\Documents\카카오톡 받은 파일\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+C:\Users\유진\Desktop\Project_ver1_2\TP_Form\bin\Debug\TP_Form.exe.config
+C:\Users\유진\Desktop\Project_ver1_2\TP_Form\obj\Debug\TP_Form.exe
+C:\Users\유진\Desktop\Project_ver1_2\TP_Form\obj\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\Project_ver1_2\TP_Form\bin\Debug\TP_Form.exe
+C:\Users\유진\Desktop\Project_ver1_2\TP_Form\bin\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\Project_ver1_2\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+C:\Users\유진\Desktop\Project_ver1_2\TP_Form\obj\Debug\TP_Form.Drum.resources
+C:\Users\유진\Desktop\Project_ver1_2\TP_Form\obj\Debug\TP_Form.Guitar.resources
+C:\Users\유진\Desktop\Project_ver1_2\TP_Form\obj\Debug\TP_Form.Piano.resources
+C:\Users\유진\Desktop\Project_ver1_2\TP_Form\obj\Debug\TP_Form.Main.resources
+C:\Users\유진\Desktop\Project_ver1_2\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+C:\Users\유진\Desktop\Project_ver1_2\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+C:\Users\유진\Desktop\Project_ver1_2\TP_Form\bin\Debug\irrKlang.NET4.dll
+C:\Users\유진\Desktop\sosil\Project_ver1_4\TP_Form\bin\Debug\TP_Form.exe.config
+C:\Users\유진\Desktop\sosil\Project_ver1_4\TP_Form\obj\Debug\TP_Form.exe
+C:\Users\유진\Desktop\sosil\Project_ver1_4\TP_Form\obj\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\sosil\Project_ver1_4\TP_Form\bin\Debug\TP_Form.exe
+C:\Users\유진\Desktop\sosil\Project_ver1_4\TP_Form\bin\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\sosil\Project_ver1_4\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+C:\Users\유진\Desktop\sosil\Project_ver1_4\TP_Form\obj\Debug\TP_Form.Drum.resources
+C:\Users\유진\Desktop\sosil\Project_ver1_4\TP_Form\obj\Debug\TP_Form.Guitar.resources
+C:\Users\유진\Desktop\sosil\Project_ver1_4\TP_Form\obj\Debug\TP_Form.Piano.resources
+C:\Users\유진\Desktop\sosil\Project_ver1_4\TP_Form\obj\Debug\TP_Form.Main.resources
+C:\Users\유진\Desktop\sosil\Project_ver1_4\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+C:\Users\유진\Desktop\sosil\Project_ver1_4\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+C:\Users\유진\Desktop\sosil\Project_ver1_5\TP_Form\bin\Debug\TP_Form.exe.config
+C:\Users\유진\Desktop\sosil\Project_ver1_5\TP_Form\obj\Debug\TP_Form.exe
+C:\Users\유진\Desktop\sosil\Project_ver1_5\TP_Form\obj\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\sosil\Project_ver1_5\TP_Form\bin\Debug\TP_Form.exe
+C:\Users\유진\Desktop\sosil\Project_ver1_5\TP_Form\bin\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\sosil\Project_ver1_5\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+C:\Users\유진\Desktop\sosil\Project_ver1_5\TP_Form\obj\Debug\TP_Form.Drum.resources
+C:\Users\유진\Desktop\sosil\Project_ver1_5\TP_Form\obj\Debug\TP_Form.Guitar.resources
+C:\Users\유진\Desktop\sosil\Project_ver1_5\TP_Form\obj\Debug\TP_Form.Piano.resources
+C:\Users\유진\Desktop\sosil\Project_ver1_5\TP_Form\obj\Debug\TP_Form.Main.resources
+C:\Users\유진\Desktop\sosil\Project_ver1_5\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+C:\Users\유진\Desktop\sosil\Project_ver1_5\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+C:\Users\유진\Desktop\sosil\Project_ver.1.5.2\TP_Form\bin\Debug\TP_Form.exe.config
+C:\Users\유진\Desktop\sosil\Project_ver.1.5.2\TP_Form\obj\Debug\TP_Form.exe
+C:\Users\유진\Desktop\sosil\Project_ver.1.5.2\TP_Form\obj\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\sosil\Project_ver.1.5.2\TP_Form\bin\Debug\TP_Form.exe
+C:\Users\유진\Desktop\sosil\Project_ver.1.5.2\TP_Form\bin\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\sosil\Project_ver.1.5.2\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+C:\Users\유진\Desktop\sosil\Project_ver.1.5.2\TP_Form\obj\Debug\TP_Form.Drum.resources
+C:\Users\유진\Desktop\sosil\Project_ver.1.5.2\TP_Form\obj\Debug\TP_Form.Guitar.resources
+C:\Users\유진\Desktop\sosil\Project_ver.1.5.2\TP_Form\obj\Debug\TP_Form.Piano.resources
+C:\Users\유진\Desktop\sosil\Project_ver.1.5.2\TP_Form\obj\Debug\TP_Form.Main.resources
+C:\Users\유진\Desktop\sosil\Project_ver.1.5.2\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+C:\Users\유진\Desktop\sosil\Project_ver.1.5.2\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.5.3\TP_Form\bin\Debug\TP_Form.exe.config
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.5.3\TP_Form\obj\Debug\TP_Form.exe
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.5.3\TP_Form\obj\Debug\TP_Form.pdb
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.5.3\TP_Form\bin\Debug\TP_Form.exe
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.5.3\TP_Form\bin\Debug\TP_Form.pdb
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.5.3\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.5.3\TP_Form\obj\Debug\TP_Form.Drum.resources
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.5.3\TP_Form\obj\Debug\TP_Form.Guitar.resources
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.5.3\TP_Form\obj\Debug\TP_Form.Piano.resources
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.5.3\TP_Form\obj\Debug\TP_Form.Main.resources
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.5.3\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.5.3\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+C:\Users\유진\Desktop\Project_ver.1.5.4\TP_Form\bin\Debug\TP_Form.exe.config
+C:\Users\유진\Desktop\Project_ver.1.5.4\TP_Form\obj\Debug\TP_Form.exe
+C:\Users\유진\Desktop\Project_ver.1.5.4\TP_Form\obj\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\Project_ver.1.5.4\TP_Form\bin\Debug\TP_Form.exe
+C:\Users\유진\Desktop\Project_ver.1.5.4\TP_Form\bin\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\Project_ver.1.5.4\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+C:\Users\유진\Desktop\Project_ver.1.5.4\TP_Form\obj\Debug\TP_Form.Drum.resources
+C:\Users\유진\Desktop\Project_ver.1.5.4\TP_Form\obj\Debug\TP_Form.Guitar.resources
+C:\Users\유진\Desktop\Project_ver.1.5.4\TP_Form\obj\Debug\TP_Form.Piano.resources
+C:\Users\유진\Desktop\Project_ver.1.5.4\TP_Form\obj\Debug\TP_Form.Main.resources
+C:\Users\유진\Desktop\Project_ver.1.5.4\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+C:\Users\유진\Desktop\Project_ver.1.5.4\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+C:\Users\유진\Desktop\Project_ver.1.5.5\TP_Form\bin\Debug\TP_Form.exe.config
+C:\Users\유진\Desktop\Project_ver.1.5.5\TP_Form\obj\Debug\TP_Form.exe
+C:\Users\유진\Desktop\Project_ver.1.5.5\TP_Form\obj\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\Project_ver.1.5.5\TP_Form\bin\Debug\TP_Form.exe
+C:\Users\유진\Desktop\Project_ver.1.5.5\TP_Form\bin\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\Project_ver.1.5.5\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+C:\Users\유진\Desktop\Project_ver.1.5.5\TP_Form\obj\Debug\TP_Form.Drum.resources
+C:\Users\유진\Desktop\Project_ver.1.5.5\TP_Form\obj\Debug\TP_Form.Guitar.resources
+C:\Users\유진\Desktop\Project_ver.1.5.5\TP_Form\obj\Debug\TP_Form.Piano.resources
+C:\Users\유진\Desktop\Project_ver.1.5.5\TP_Form\obj\Debug\TP_Form.Main.resources
+C:\Users\유진\Desktop\Project_ver.1.5.5\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+C:\Users\유진\Desktop\Project_ver.1.5.5\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.0\TP_Form\bin\Debug\TP_Form.exe.config
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.0\TP_Form\obj\Debug\TP_Form.exe
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.0\TP_Form\obj\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.0\TP_Form\bin\Debug\TP_Form.exe
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.0\TP_Form\bin\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.0\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.0\TP_Form\obj\Debug\TP_Form.Drum.resources
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.0\TP_Form\obj\Debug\TP_Form.Guitar.resources
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.0\TP_Form\obj\Debug\TP_Form.Piano.resources
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.0\TP_Form\obj\Debug\TP_Form.Main.resources
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.0\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.0\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.6.2\TP_Form\bin\Debug\TP_Form.exe.config
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.6.2\TP_Form\obj\Debug\TP_Form.exe
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.6.2\TP_Form\obj\Debug\TP_Form.pdb
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.6.2\TP_Form\bin\Debug\TP_Form.exe
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.6.2\TP_Form\bin\Debug\TP_Form.pdb
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.6.2\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.6.2\TP_Form\obj\Debug\TP_Form.Drum.resources
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.6.2\TP_Form\obj\Debug\TP_Form.Guitar.resources
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.6.2\TP_Form\obj\Debug\TP_Form.Piano.resources
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.6.2\TP_Form\obj\Debug\TP_Form.Main.resources
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.6.2\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+C:\Users\내문서\Documents\카카오톡 받은 파일\Project_ver.1.6.2\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.4\TP_Form\bin\Debug\TP_Form.exe.config
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.4\TP_Form\obj\Debug\TP_Form.exe
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.4\TP_Form\obj\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.4\TP_Form\bin\Debug\TP_Form.exe
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.4\TP_Form\bin\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.4\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.4\TP_Form\obj\Debug\TP_Form.Drum.resources
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.4\TP_Form\obj\Debug\TP_Form.Guitar.resources
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.4\TP_Form\obj\Debug\TP_Form.Piano.resources
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.4\TP_Form\obj\Debug\TP_Form.Main.resources
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.4\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+C:\Users\유진\Desktop\sosil\Project_ver.1.6.4\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\bin\Debug\TP_Form.exe.config
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\obj\Debug\TP_Form.exe
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\obj\Debug\TP_Form.pdb
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\bin\Debug\TP_Form.exe
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\bin\Debug\TP_Form.pdb
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\obj\Debug\TP_Form.Drum.resources
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\obj\Debug\TP_Form.Guitar.resources
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\obj\Debug\TP_Form.Piano.resources
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\obj\Debug\TP_Form.Main.resources
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\bin\Debug\MySql.Data.dll
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\bin\Debug\MySql.Data.Entity.dll
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\bin\Debug\MySql.Fabric.Plugin.dll
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\bin\Debug\MySql.Web.dll
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\bin\Debug\MySql.Data.xml
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\bin\Debug\MySql.Web.xml
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.7.0\TP_Form\obj\Debug\TP_Form.csproj.TP_Form.exe.config
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\bin\Debug\TP_Form.exe.config
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\obj\Debug\TP_Form.exe
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\obj\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\bin\Debug\TP_Form.exe
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\bin\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\bin\Debug\MySql.Data.dll
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\bin\Debug\MySql.Data.Entity.dll
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\bin\Debug\MySql.Web.dll
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\bin\Debug\MySql.Data.xml
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\bin\Debug\MySql.Web.xml
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\obj\Debug\TP_Form.csproj.TP_Form.exe.config
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\obj\Debug\TP_Form.Drum.resources
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\obj\Debug\TP_Form.Guitar.resources
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\obj\Debug\TP_Form.Piano.resources
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\obj\Debug\TP_Form.Main.resources
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\obj\Debug\TP_Form.csproj.ResolveComReference.cache
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\bin\Debug\packet.dll
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\bin\Debug\packet.pdb
+C:\Users\유진\Desktop\Project_ver.1.7.2\TP_Form\obj\Debug\TP_Form.Conn.resources
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\bin\Debug\TP_Form.exe.config
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\obj\Debug\TP_Form.csproj.ResolveComReference.cache
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\obj\Debug\TP_Form.exe
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\obj\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\bin\Debug\TP_Form.exe
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\bin\Debug\TP_Form.pdb
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\bin\Debug\MySql.Data.dll
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\bin\Debug\MySql.Data.Entity.dll
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\bin\Debug\MySql.Web.dll
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\bin\Debug\MySql.Data.xml
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\bin\Debug\MySql.Web.xml
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\bin\Debug\packet.pdb
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\obj\Debug\TP_Form.csprojResolveAssemblyReference.cache
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\obj\Debug\TP_Form.csproj.TP_Form.exe.config
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\obj\Debug\TP_Form.Conn.resources
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\obj\Debug\TP_Form.Drum.resources
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\obj\Debug\TP_Form.Guitar.resources
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\obj\Debug\TP_Form.Piano.resources
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\obj\Debug\TP_Form.Main.resources
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\obj\Debug\TP_Form.Properties.Resources.resources
+C:\Users\유진\Desktop\Project_ver.1.8.0\TP_Form\obj\Debug\TP_Form.csproj.GenerateResource.Cache

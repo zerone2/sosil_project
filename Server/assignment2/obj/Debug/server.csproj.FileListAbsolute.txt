@@ -1,0 +1,15 @@
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.8.1\Server\assignment2\bin\Debug\packet.pdb
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.8.1\Server\assignment2\bin\Debug\Interop.Shell32.dll
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.8.1\Server\assignment2\obj\Debug\server.csprojResolveAssemblyReference.cache
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.8.1\Server\assignment2\obj\Debug\Interop.MediaPlayer.dll
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.8.1\Server\assignment2\obj\Debug\Interop.Shell32.dll
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.8.1\Server\assignment2\obj\Debug\Interop.WMPLib.dll
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.8.1\Server\assignment2\obj\Debug\server.csproj.ResolveComReference.cache
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.8.1\Server\assignment2\obj\Debug\assignment2.server_form.resources
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.8.1\Server\assignment2\obj\Debug\server.csproj.GenerateResource.Cache
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.8.1\Server\assignment2\bin\Debug\server.exe.config
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.8.1\Server\assignment2\bin\Debug\server.exe
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.8.1\Server\assignment2\bin\Debug\server.pdb
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.8.1\Server\assignment2\obj\Debug\server.Properties.Resources.resources
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.8.1\Server\assignment2\obj\Debug\server.exe
+D:\공부\3-1\응용소프트웨어\팀플\Project_ver.1.8.1\Server\assignment2\obj\Debug\server.pdb
